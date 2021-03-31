@@ -10,3 +10,5 @@ This is our creation for the 2020 Datathon competition at KU Leuven. It has won 
 ### About the tool
 
 We created a proof of concept for a police tool based on the Telraam data project in Leuven in Shiny.
+
+![Alt text](https://raw.githubusercontent.com/BarathTamas/Datathon2020-Telraam-Police-Tool/main/Shiny%20App/telraam-tool.JPG "What the app looks like")
